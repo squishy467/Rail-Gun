@@ -2,7 +2,6 @@
 UDP/TCP DoS tool
 
 rbxSec UDP/TCP Flooder
-pip install -r requirements.txt 
 
 Requires Python3
 
